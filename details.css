@@ -1,0 +1,30 @@
+body {
+  background-color: #f6b319;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.rmili {
+  background-color: #ffffff;
+  border: none;
+  color: #983056ee;
+}
+
+.rmili .card-title,
+.rmili .fw-bold {
+  color: #983056ee;
+}
+
+.large-img {
+  height: 400px;
+  object-fit: cover;
+}
+
+.btn-outline-light {
+  color: #983056ee;
+  border-color: #983056ee;
+}
+
+.btn-outline-light:hover {
+  background-color: #983056ee;
+  color: white;
+}

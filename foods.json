@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Sweet & Sour Chicken",
+    "image": "img/img1.png",
+    "price": 9.99,
+    "description": "Crispy chicken tossed in a sweet and tangy sauce, served with steamed rice."
+  },
+  {
+    "id": 2,
+    "name": "Beef Noodles",
+    "image": "img/img2.png",
+    "price": 11.50,
+    "description": "Tender beef strips with stir-fried noodles and vegetables in a savory soy-based sauce."
+  },
+  {
+    "id": 3,
+    "name": "Steamed Dumplings",
+    "image": "img/img3.png",
+    "price": 8.75,
+    "description": "Soft dumplings filled with pork and veggies, delicately steamed and served with dipping sauce."
+  },
+  {
+    "id": 4,
+    "name": "Fried Rice",
+    "image": "img/img4.png",
+    "price": 7.99,
+    "description": "Classic fried rice with mixed vegetables, eggs, and soy sauce. Optionally includes chicken or shrimp."
+  },
+  {
+    "id": 5,
+    "name": "Spring Rolls",
+    "image": "img/img5.png",
+    "price": 5.50,
+    "description": "Golden crispy rolls stuffed with shredded veggies and vermicelli noodles."
+  },
+  {
+    "id": 6,
+    "name": "Shrimp Stir-Fry",
+    "image": "img/img6.png",
+    "price": 12.90,
+    "description": "Juicy shrimp sautéed with bell peppers, carrots, and broccoli in garlic sauce."
+  },
+  {
+    "id": 7,
+    "name": "Mapo Tofu",
+    "image": "img/img7.png",
+    "price": 9.25,
+    "description": "Silky tofu and minced meat in a spicy Szechuan sauce. A flavorful Chinese classic."
+  },
+  {
+    "id": 8,
+    "name": "Hot & Sour Soup",
+    "image": "img/img8.png",
+    "price": 6.95,
+    "description": "A spicy, tangy soup with tofu, mushrooms, and bamboo shoots. Perfect for chilly days."
+  },
+  {
+    "id": 9,
+    "name": "Teriyaki Chicken",
+    "image": "img/img9.png",
+    "price": 10.99,
+    "description": "Grilled chicken glazed in a sweet teriyaki sauce, served with rice and vegetables."
+  },
+  {
+    "id": 10,
+    "name": "Sesame Chicken",
+    "image": "img/img10.png",
+    "price": 10.25,
+    "description": "Crispy chicken bites tossed in a sticky sesame sauce and sprinkled with sesame seeds."
+  },
+  {
+    "id": 11,
+    "name": "Moroccan Coscoss",
+    "image": "img/img11.png",
+    "price": 10.00,
+    "description": "Traditional Moroccan couscous with seasonal vegetables, chickpeas, and tender meat."
+  },
+  {
+    "id": 12,
+    "name": "Moroccan Chicken",
+    "image": "img/img12.png",
+    "price": 11.50,
+    "description": "Spiced Moroccan chicken slow-cooked with olives, lemon, and preserved herbs."
+  }
+]
