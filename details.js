@@ -13,3 +13,4 @@ fetch('foods.json')
       document.getElementById('food-description').textContent = item.description;
     }
   });
+
