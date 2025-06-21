@@ -79,6 +79,11 @@ body {
     padding-top: 90px;
    }
 }
+@media screen and (max-width: 393px){
+    .phone-number{
+    margin-top: 60px !important;
+   }
+}
 .phone-number {
   display: none; 
   box-sizing: border-box;
